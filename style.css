@@ -1,0 +1,94 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+    font-family: Roboto, sans-serif;
+    background-color: #FCF8F1;
+}
+
+#grand {
+    font-weight: bolder;
+    font-size: 50px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+#petit {
+    display: inline-block;
+    vertical-align: top;
+    border: 1px solid black;
+    padding: 66px;
+    margin-right: 90px;
+    margin-top: 35px;
+}
+
+#chaud {
+    display: inline-block;
+    margin-top: 35px;
+}
+
+.intro {
+    font-size: 4px;
+    padding-top: 5px;
+}
+
+#present {
+    font-size: 8px;
+    color: #5380cb;
+    padding-top: 5px;
+}
+
+.partie {
+    font-size: 6px;
+    color: #5380cb;
+    padding-top: 5px;
+}
+
+#photo {
+    display: inline-block;
+    position: relative;
+    left: 210px;
+    bottom: 160px;
+}
+.froid {
+    text-align: left;
+}
+
+.pied {
+    background-color: #686868;
+    text-align: right;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 65px;
+}
+
+#pide {
+    border: 1px solid black;
+    padding-right: 150px;
+    padding-left: 10px;
+    padding-bottom: 50px;
+}
+
+li {
+    margin-left: 20px;
+}
+
+.click {
+    position: relative;
+    right: 585px;
+    bottom: 90px;
+}
+
+.clock {
+    position: relative;
+    right: 205px;
+    bottom: 110px;
+}
+
+.pop {
+    display: inline-block;
+}
